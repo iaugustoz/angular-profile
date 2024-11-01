@@ -1,7 +1,7 @@
 # 🎨 **Portfólio Angular** 🎨
 
 <div align="center">
-<img src="" width="1000px" alt="Imagem do site" title="Imagem do projeto"/>
+<img src="" width="1000px" alt="Imagem do projeto" title="Imagem do projeto"/>
 </div>
 
 ## 📜 **Descrição**
