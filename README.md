@@ -18,7 +18,7 @@ Descrição em desenvolvimento...
 
 ## 💻 **Tecnologias Utilizadas**
 
-- ***
+- Angular (v18.2.11)
 
 ## 📦 **Dependências**
 
@@ -38,6 +38,12 @@ git clone https://github.com/iaugustoz/angular-profile
 
 ```
 cd angular-profile
+```
+
+3. Instale o Angular CLI utilizando o código abaixo
+
+````
+npm install -g @angular/cli
 ```
 
 ---
@@ -78,3 +84,4 @@ git push origin minha-contribuicao
 ## ⚠️ Aviso Importante
 
 Este projeto ainda está em desenvolvimento, portanto, algumas funcionalidades podem estar incompletas ou sujeitas a alterações. Se você encontrar algum bug, não hesite em abrir uma issue!
+````
