@@ -36,13 +36,13 @@ git clone https://github.com/iaugustoz/angular-profile
 
 2. **Navegue até o diretório do projeto:**
 
-```
+```bash
 cd angular-profile
 ```
 
 3. Instale o Angular CLI utilizando o código abaixo
 
-````
+```bash
 npm install -g @angular/cli
 ```
 
